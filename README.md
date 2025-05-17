@@ -19,15 +19,6 @@ This LabVIEW pulse control system was used to:
 
 The flexibility of this system allowed full synchronization between the laser source, HV switching, and data acquisition without needing manual intervention during the experiments.
 
-## 📷 Screenshots
-
-### Oscilloscope Output
-Shows clean digital square wave pulses with user-defined ON/OFF durations:
-![Oscilloscope Output](images/oscilloscope_output.png)
-
-### LabVIEW Block Diagram
-VI architecture showing the configuration for two channels with timing control:
-![LabVIEW Diagram](images/labview_block_diagram.png)
 
 ### Front Panel GUI
 User interface to input parameters and start/stop pulses:
